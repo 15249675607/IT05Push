@@ -18,7 +18,10 @@ static BOOL isProduction = FALSE;
 @property(nonatomic,copy)NSString *name3;
 @property(nonatomic,copy)NSString *name4;
 @property(nonatomic,copy)NSString *name5;
-
+@property(nonatomic,copy)NSString *name9;
+@property(nonatomic,copy)NSString *name10;
 @property(nonatomic,copy)NSString *name8;
+@property(nonatomic,copy)NSString *name11;
+@property(nonatomic,copy)NSString *name12;
 @end
 
